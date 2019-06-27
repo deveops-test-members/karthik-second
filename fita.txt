@@ -1,0 +1,6 @@
+welcome to fita academy
+*courses
+  hadoop
+  machine learning
+  yaml
+  groovy
